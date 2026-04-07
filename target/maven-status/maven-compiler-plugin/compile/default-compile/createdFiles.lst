@@ -1,0 +1,12 @@
+com\medicaps\icms\service\ComplaintService$1.class
+com\medicaps\icms\service\ProfessionalBanService$BanAction.class
+com\medicaps\icms\controller\ProfessionalBanController.class
+com\medicaps\icms\service\ProfessionalBanService$BanEvaluation.class
+com\medicaps\icms\service\AIComplaintValidationService.class
+com\medicaps\icms\controller\UserManagementController.class
+com\medicaps\icms\dto\RecentComplaintDTO.class
+com\medicaps\icms\service\UserManagementService.class
+com\medicaps\icms\service\ProfessionalBanService.class
+com\medicaps\icms\service\UserResetService.class
+com\medicaps\icms\service\AIComplaintValidationService$ValidationResult.class
+com\medicaps\icms\dto\UserManagementDTO.class
