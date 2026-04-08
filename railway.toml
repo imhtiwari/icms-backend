@@ -6,6 +6,9 @@
         "builder": "NIXPACKS"
       },
       "runtime": "java"
+    },
+    "mysql": {
+      "image": "mysql:8"
     }
   },
   "build": {
